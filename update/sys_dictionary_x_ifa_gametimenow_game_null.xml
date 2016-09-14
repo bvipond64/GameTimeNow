@@ -4,7 +4,7 @@
         <active>true</active>
         <array>false</array>
         <attributes/>
-        <audit>false</audit>
+        <audit>true</audit>
         <calculation><![CDATA[(function calculatedFieldValue(current) {
 
 	// Add your code here
@@ -53,7 +53,7 @@
         <sys_created_on>2016-09-14 17:23:52</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
         <sys_id>d89676aa13796600638e74c66144b0df</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>x_ifa_gametimenow_game</sys_name>
         <sys_package display_value="GameTimeNow" source="x_ifa_gametimenow">bc23626613796600638e74c66144b067</sys_package>
         <sys_policy/>
@@ -61,7 +61,7 @@
         <sys_scope display_value="GameTimeNow">bc23626613796600638e74c66144b067</sys_scope>
         <sys_update_name>sys_dictionary_x_ifa_gametimenow_game_null</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2016-09-14 17:23:52</sys_updated_on>
+        <sys_updated_on>2016-09-14 19:08:17</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
