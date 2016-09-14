@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="location" table="x_ifa_gametimenow_game" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>location</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Sport Court</label>
+            <language>en</language>
+            <name>x_ifa_gametimenow_game</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-09-14 17:30:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>54f73eaa13796600638e74c66144b0a1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-09-14 17:30:34</sys_updated_on>
+            <value>Sport Court</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>location</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>The Park</label>
+            <language>en</language>
+            <name>x_ifa_gametimenow_game</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-09-14 17:30:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4928bea613796600638e74c66144b081</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-09-14 17:30:59</sys_updated_on>
+            <value>The Park</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>location</element>
+            <name>x_ifa_gametimenow_game</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-09-14 17:30:34</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>da1832a613796600638e74c66144b053</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_name>location</sys_name>
+            <sys_package display_value="GameTimeNow" source="x_ifa_gametimenow">bc23626613796600638e74c66144b067</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="GameTimeNow">bc23626613796600638e74c66144b067</sys_scope>
+            <sys_update_name>sys_choice_x_ifa_gametimenow_game_location</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-09-14 17:30:59</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
